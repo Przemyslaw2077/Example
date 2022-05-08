@@ -1,7 +1,3 @@
 # Example
 
 ## Przemek
-
-### Idczak
-
-sassas
